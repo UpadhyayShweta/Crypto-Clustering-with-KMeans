@@ -84,7 +84,7 @@ In this section, we will use the elbow method to find the best value for k by us
 
 ### Cluster Cryptocurrencies with K-means Using the PCA Data
 
-In this section, you will use the PCA data and the K-means algorithm with the best value for k (found in the previous section) in order to cluster the cryptocurrencies according to the principal components.
+In this section, we will use the PCA data and the K-means algorithm with the best value for k (found in the previous section) in order to cluster the cryptocurrencies according to the principal components.
 
 1. Initialize the K-means model with four clusters by using the best value for k.
 
@@ -98,7 +98,7 @@ In this section, you will use the PCA data and the K-means algorithm with the be
 
 ### Visualise and Compare the Results
 
-In this section, you will visually analyse the cluster analysis results by observing the outcome with and without using the optimisation techniques.
+In this section, we will visually analyse the cluster analysis results by observing the outcome with and without using the optimisation techniques.
 
 1. Create a composite plot using hvPlot and the plus (`+`) operator to compare the elbow curve that you created to find the best value for k with the original data and the PCA data.
 
