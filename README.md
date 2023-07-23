@@ -12,9 +12,7 @@ For this we'll be using *Unsupervised Learning* algorithms:
 
 ## Files
 
-Download the following files to help you get started:
-
-[Crypto Clustering usin KMeans](crypto_investments.ipynb)
+1. [Crypto Clustering usin KMeans](crypto_investments.ipynb)
 
 ## Instructions
 
